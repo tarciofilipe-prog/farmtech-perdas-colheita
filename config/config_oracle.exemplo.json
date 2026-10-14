@@ -1,0 +1,5 @@
+{
+    "usuario": "RM000000",
+    "senha": "sua_senha_aqui",
+    "dsn": "oracle.fiap.com.br:1521/ORCL"
+}
